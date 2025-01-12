@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi, I'm Santiago/Santiago-AGZ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-Hi there! I’m a young programmer passionate about technology, with a strong desire to learn and grow every single day. My goal is not just to write code but to create innovative solutions that make a difference.<br><br>I firmly believe that learning is a lifelong journey, and I’m always looking for new challenges to improve my skills and explore different areas of programming. From collaborating on exciting projects to proposing innovative ideas, I’m ready to give my best in every line of code.
+Hello everyone! I'm Santiago, a young programmer from Colombia, passionate about technology, with a strong focus on continuous learning and constant improvement. My goal is not only to write code, but to develop innovative solutions that have a real impact. I am currently in the process of training as a developer.
+
+I strongly believe that learning is a continuous process, so I am always looking for new challenges to hone my skills and expand my knowledge in different areas of software development. Specifically, I am focusing on backend development, a field that interests me for its ability to create efficient and scalable systems.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/santiagoprueva@gmail.com" target="_blank">
@@ -12,7 +14,7 @@ Hi there! I’m a young programmer passionate about technology, with a strong de
 
 ## Backend:
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python"  width="50"/>
   </div>
@@ -22,12 +24,14 @@ Hi there! I’m a young programmer passionate about technology, with a strong de
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL"  width="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB"  width="50"/>
+
   </div>
 </div>
 
 ## Tools:
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github"  width="50"/>
