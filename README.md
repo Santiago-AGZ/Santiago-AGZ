@@ -31,6 +31,8 @@ Hi there! I’m a young programmer passionate about technology, with a strong de
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github"  width="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Github"  width="50"/>
+
   </div>
 </div>
 
