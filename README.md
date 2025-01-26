@@ -24,7 +24,6 @@ I strongly believe that learning is a continuous process, so I am always looking
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB"  width="50"/>
 
   </div>
 </div>
@@ -35,7 +34,6 @@ I strongly believe that learning is a continuous process, so I am always looking
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VSCode"  width="50"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"  width="50"/>
 
   </div>
