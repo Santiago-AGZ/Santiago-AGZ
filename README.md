@@ -6,7 +6,7 @@ Hello everyone! I'm Santiago, a young programmer from Colombia, passionate about
 I strongly believe that learning is a continuous process, so I am always looking for new challenges to hone my skills and expand my knowledge in different areas of software development. Specifically, I am focusing on backend development, a field that interests me for its ability to create efficient and scalable systems.
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/santiagoprueva@gmail.com" target="_blank">
+<a href="https://linkedin.com/in/santhygutierrez2002a@gmail.com" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn"  width="50"/>
 </a>
 
