@@ -35,6 +35,8 @@ Hi, I'm Santiago, a passionate backend developer from Colombia 🇨🇴, dedicat
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres&perline=3" />
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" />
+
   </a>
 </p>
 
