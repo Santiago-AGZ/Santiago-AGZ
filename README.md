@@ -1,57 +1,89 @@
-<h1 align="center"><b>Hi, I'm Santiago/Santiago-AGZ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Santiago </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# 💫 About Me:
-Hello everyone! I'm Santiago, a young programmer from Colombia, passionate about technology, with a strong focus on continuous learning and constant improvement. My goal is not only to write code, but to develop innovative solutions that have a real impact. I am currently in the process of training as a developer.
-
-I strongly believe that learning is a continuous process, so I am always looking for new challenges to hone my skills and expand my knowledge in different areas of software development. Specifically, I am focusing on backend development, a field that interests me for its ability to create efficient and scalable systems.
-
-## 🌐 Socials:
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BTG5MIWvzQWGW1bnAWNYglw%3D%3D" target="_blank">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn"  width="50"/>
-</a>
-
-# 💻 Tech Stack:
-
-## Backend:
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python"  width="50"/>
-  </div>
-</div>
-
-## Databases:
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL"  width="50"/>
-
-  </div>
-</div>
-
-## Tools:
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github"  width="50"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"  width="50"/>
-
-  </div>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago-AGZ&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Santiago-AGZ&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Santiago-AGZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <b>Backend Developer • Tech Enthusiast • Lifelong Learner</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Santiago-AGZ&icon=4&color=1)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+<p align="center">
+Hi, I'm Santiago, a passionate backend developer from Colombia 🇨🇴, dedicated to crafting efficient, scalable, and robust systems. With a deep enthusiasm for technology and problem-solving, I am currently refining my skills and knowledge to become a proficient backend engineer.
+</p>
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-alvarez-b6467834a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,php,c,cpp,cs&perline=3" />
+  </a>
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres&perline=3" />
+  </a>
+</p>
+
+### Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,postman&perline=4" />
+  </a>
+</p>
+
+### Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel&perline=3" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&theme=vision-friendly-dark&hide_border=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-AGZ&theme=vision-friendly-dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&theme=vision-friendly-dark&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Santiago-AGZ&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Santiago-AGZ&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Santiago-AGZ&icon=4&color=1" />
+</p>
