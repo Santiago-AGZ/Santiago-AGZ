@@ -1,26 +1,22 @@
-# 🎓 Student Developer
+# 🎓 Tecnólogo en Desarrollo de Software
+<h2> En proceso de formación</h2>
 
 <div align="center">
   <h1>👋 ¡Hola! Soy Santiago</h1>
-  <h3>🎓 Tecnólogo en Desarrollo de Software| 🚀 Simepre Aprendiendo</h3>
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+to+Code;Building+Cool+Projects;Future+Software+Engineer!)
-  
+    
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZrcGt6ZWMzaXZ5Zzd4Y2Z4MDVleDVkdzZlbXRoeTBveXFoMml3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
 </div>
 
-## 📚 About Me
+## 📚 Sobre Mi
 
-Estudiante de Ciencias de la Computación apasionado por la tecnología y el desarrollo de software. Siempre buscando aprender nuevas tecnologías y aplicar lo que aprendo en proyectos reales.
+Tecnólogo en Desarrollo de Software en proceso de formación, con interés en la construcción de aplicaciones y el aprendizaje continuo. Tengo conocimientos en programación con Python y Java, desarrollo de aplicaciones con Spring Boot, manejo de bases de datos relacionales y control de versiones con Git y GitHub. Me interesa aplicar buenas prácticas, metodologías ágiles como Scrum y seguir fortaleciendo mis habilidades a través de proyectos prácticos.
 
-- 🎓 Estudiando **[Tu carrera]** en **[Tu universidad]**
-- 📅 Año académico: **[Tu año - ej: 3er año]**
-- 🌱 Actualmente aprendiendo **[Tecnologías que estás estudiando]**
-- 🔭 Trabajando en **[Proyecto estudiantil actual]**
+- 🎓 Estudiando **Tecnólogia en Desarrollo de SOftware** en **Universidad del valle**
+- 📅 Año académico: **2025**
+- 🌱 Actualmente aprendiendo **desarrollo de aplicaciones utilizando Spring Boot, integrando bases de datos y buenas prácticas**
 - 👯 Buscando colaborar en **proyectos de código abierto**
-- 💬 Pregúntame sobre **[Tus materias favoritas/tecnologías]**
-- 📫 Contacto: **[tu-email-estudiantil@universidad.edu]**
-- ⚡ Fun fact: **[Algo interesante sobre tu experiencia estudiando]**
+- 📫 Contacto: **santiago.alvarez.gutierrez@correounivalle.edu.co**, **santiagoalvarez2005@hotmail.com**
+- ⚡ Fun fact: **Al principio el “error” me frustraba, ahora me ayuda a mejorar**
 
 ## 🛠️ Learning Stack
 
@@ -48,8 +44,8 @@ Estudiante de Ciencias de la Computación apasionado por la tecnología y el des
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## 📖 Academic Journey
