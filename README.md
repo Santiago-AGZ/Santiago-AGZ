@@ -36,6 +36,11 @@ Me interesa el aprendizaje continuo y la aplicación de **metodologías ágiles 
 <div align="center">
   <img src="assets/qr-linktree.png" width="180"/>
 </div>
+<div align="center">
+
+[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/HV_Santiago_Alvarez_Gutierrez.pdf)
+
+</div>
 
 
 ---
