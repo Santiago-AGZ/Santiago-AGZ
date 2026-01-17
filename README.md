@@ -15,7 +15,26 @@ Tecnólogo en Desarrollo de Software en formación, enfocado en el desarrollo de
 - 📅 Año académico: **2025**
 - 🌱 Actualmente aprendiendo **desarrollo de aplicaciones utilizando Spring Boot, integrando bases de datos y buenas prácticas**
 - 👯 Buscando colaborar en **proyectos de código abierto**
-- 📫 Contacto: **santiago.alvarez.gutierrez@correounivalle.edu.co**, **santiagoalvarez2005@hotmail.com**
+
+
+## 🌐 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alvarez-gutierrez-033359375)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santiago-AGZ)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.alvarez.gutierrez@correounivalle.edu.co)
+
+</div>
+
+
+<br/>
+
+<img src="assets/qr-portfolio.png" alt="QR hacia mi portfolio" width="180"/>
+
+</div>
+
+
 - ⚡ Fun fact: **Al principio el “error” me frustraba, ahora me ayuda a mejorar**
 
 ## 🛠️ Tecnologías y Herramientas
@@ -45,81 +64,83 @@ Tecnólogo en Desarrollo de Software en formación, enfocado en el desarrollo de
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&show_icons=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&layout=compact&theme=github_dark"/>
-</div>
+## 🚀 Proyectos Destacados
+
+### 🛍️ Fajas AnjulLy – Plataforma E-commerce
+Plataforma web de comercio electrónico desarrollada para la venta de fajas y productos de bienestar, con una experiencia de usuario intuitiva y un panel administrativo para la gestión de productos y pedidos.
+
+**Tecnologías:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Funcionalidades:**
+- 🛒 Catálogo de productos
+- 📦 Gestión de pedidos
+- 🧑‍💼 Panel administrativo
+- 🔐 Autenticación de usuarios
+- 📱 Diseño responsive
+
+[🌐 Demo](https://fajas-anjully.vercel.app/) | [💻 Código](https://github.com/Santiago-AGZ/ecommerce-faja-anjully)
+
+---
+
+### 🐶 DogApp – Plataforma de Gestión de Citas Veterinarias
+Aplicación móvil para la gestión de citas veterinarias caninas. Permite registrar, visualizar, editar y eliminar citas, administrar información de mascotas y propietarios, e integrar autenticación y servicios externos.
+
+**Tecnologías:**  
+![Android](https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/retrofit-3E4348.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Funcionalidades:**
+- 📅 Gestión de citas veterinarias
+- 🐕 Administración de mascotas y propietarios
+- 🔐 Autenticación de usuarios
+- 🌐 Consumo de APIs externas (Dog CEO API)
+- 🧱 Arquitectura MVVM
+
+[💻 Código](https://github.com/AlexanderJAON/EquipoTres)
+
+---
+
+### 🌱 Textile Purify – Plataforma Web 3D Educativa
+Plataforma web 3D educativa enfocada en la contaminación del agua, diseñada para sensibilizar a los usuarios mediante experiencias inmersivas e interactivas que presentan problemáticas, impactos y soluciones ambientales.
+
+**Tecnologías:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Funcionalidades:**
+- 🌍 Escenarios 3D interactivos
+- 🎮 Experiencia inmersiva educativa
+- 📚 Contenido informativo ambiental
+- 🧭 Navegación intuitiva
+- ☁️ Despliegue en la nube
+
+[🌐 Demo](https://textile-purify-ten.vercel.app/) | [💻 Código](https://github.com/Elkin-Pena-UV/textile-purify)
 
 
-## 📖 Academic Journey
+## 📚 Recursos de Aprendizaje 
 
-### 🎯 Core Subjects Completed
-- ✅ **Programación I & II** - Java, Python, Algorithms
-- ✅ **Estructuras de Datos** - Arrays, Lists, Trees, Graphs
-- ✅ **Matemáticas Discretas** - Logic, Set Theory, Proofs
-- ✅ **Sistemas Operativos** - Unix/Linux, Process Management
-- 🔄 **Base de Datos** - SQL, Database Design (Cursando)
-- 🔄 **Desarrollo Web** - HTML, CSS, JavaScript (Cursando)
-
-### 📚 Upcoming Courses
-- 📅 **Redes de Computadoras** - Próximo semestre
-- 📅 **Inteligencia Artificial** - Próximo semestre
-- 📅 **Ingeniería de Software** - 2025
-
-## 🚀 Student Projects
-
-### 📝 [Sistema de Gestión Estudiantil](link-proyecto)
-Aplicación web para gestionar información de estudiantes y calificaciones.
-
-**Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL  
-**Curso:** Desarrollo Web  
-**Features:** 
-- 👥 Gestión de estudiantes
-- 📊 Sistema de calificaciones
-- 📋 Reportes académicos
-- 🔐 Autenticación básica
-
-[💻 Código](github-link) | [📋 Documentación](docs-link)
-
-### 🎮 [Juego de Consola en Java](link-proyecto)
-Juego de aventura por turnos implementado en Java con POO.
-
-**Tecnologías:** Java, OOP  
-**Curso:** Programación Orientada a Objetos  
-**Features:**
-- ⚔️ Sistema de combate
-- 🎒 Inventario de items
-- 🗺️ Mapas múltiples
-- 💾 Sistema de guardado
-
-[💻 Código](github-link)
-
-### 📊 [Algoritmos de Ordenamiento](link-proyecto)
-Visualización interactiva de algoritmos de ordenamiento.
-
-**Tecnologías:** Python, Matplotlib, Tkinter  
-**Curso:** Estructuras de Datos y Algoritmos  
-**Algoritmos:** Bubble Sort, Quick Sort, Merge Sort, Heap Sort
-
-[💻 Código](github-link) | [🎥 Demo](video-link)
-
-## 🏆 Academic Achievements
-
-- 🥇 **Dean's List** - Semestre Otoño 2023
-- 🏆 **Mejor Proyecto** - Curso de Programación II
-- 📜 **Beca de Excelencia Académica** - 2023-2024
-- 🎯 **GPA:** [Tu GPA]
-- 🏅 **Participante en ACM Programming Contest** - 2024
-
-## 📚 Learning Resources I Love
-
-### 📖 Books
-- "Clean Code" by Robert C. Martin
-- "Cracking the Coding Interview" by Gayle McDowell
-- "Introduction to Algorithms" by CLRS
-- "Design Patterns" by Gang of Four
+### 📖 Libros
+- **Clean Code** — Robert C. Martin  
+- **The Pragmatic Programmer: 20th Anniversary Edition** — Andrew Hunt & David Thomas  
+- **Cracking the Coding Interview** — Gayle Laakmann McDowell  
+- **Introduction to Algorithms** — Cormen, Leiserson, Rivest, Stein (CLRS)  
+- **Design Patterns: Elements of Reusable Object-Oriented Software** — Gang of Four  
+- **Ingeniería de Software (9ª edición)** — Roger S. Pressman
 
 ### 🌐 Online Platforms
 - 💻 **LeetCode** - Problem solving practice
@@ -127,31 +148,9 @@ Visualización interactiva de algoritmos de ordenamiento.
 - 📚 **freeCodeCamp** - Web development
 - 🎮 **Codewars** - Coding challenges
 
-### 🎥 YouTube Channels
-- Programming with Mosh
-- Traversy Media
-- The Net Ninja
-- CS50 by Harvard
 
-## 🎯 Goals & Aspirations
 
-### 📅 Short-term Goals (2024)
-- [ ] Completar 100 problemas en LeetCode
-- [ ] Contribuir a un proyecto de código abierto
-- [ ] Obtener una pasantía de verano
-- [ ] Aprender React y Node.js
-- [ ] Construir un portfolio web personal
-
-### 🚀 Long-term Goals
-- [ ] Graduarse con honores (Magna Cum Laude)
-- [ ] Conseguir trabajo en una empresa tech
-- [ ] Especializarse en [tu área de interés - ej: Machine Learning]
-- [ ] Contribuir significativamente al código abierto
-- [ ] Obtener certificaciones profesionales
-
-## 💡 Study Tips I Swear By
-
-```python
+python
 def study_efficiently():
     techniques = [
         "Pomodoro Technique - 25min focused work",
@@ -161,7 +160,7 @@ def study_efficiently():
         "Practice coding daily - Even 30 minutes helps"
     ]
     return "Consistency beats intensity!"
-```
+
 
 ## 🌐 Connect With Me
 
