@@ -15,6 +15,8 @@ Tecnólogo en Desarrollo de Software en formación, enfocado en el desarrollo de
 - 📅 Año académico: **2025**
 - 🌱 Actualmente aprendiendo **desarrollo de aplicaciones utilizando Spring Boot, integrando bases de datos y buenas prácticas**
 - 👯 Buscando colaborar en **proyectos de código abierto**
+- 
+<img src="assets/qr-linktree.png" width="180"/>
 
 
 ## 🌐 Conecta Conmigo
