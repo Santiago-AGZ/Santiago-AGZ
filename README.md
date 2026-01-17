@@ -9,44 +9,49 @@
 
 ## 📚 Sobre Mi
 
-Tecnólogo en Desarrollo de Software en proceso de formación, con interés en la construcción de aplicaciones y el aprendizaje continuo. Tengo conocimientos en programación con Python y Java, desarrollo de aplicaciones con Spring Boot, manejo de bases de datos relacionales y control de versiones con Git y GitHub. Me interesa aplicar buenas prácticas, metodologías ágiles como Scrum y seguir fortaleciendo mis habilidades a través de proyectos prácticos.
+Tecnólogo en Desarrollo de Software en formación, enfocado en el desarrollo de aplicaciones y la resolución de problemas. Trabajo con Python, Java y Spring Boot, bases de datos relacionales y control de versiones con Git y GitHub. Tengo experiencia con React, TypeScript y herramientas como Supabase, Postman y Vercel. Me interesa el aprendizaje continuo y la aplicación de metodologías ágiles como Scrum en proyectos reales.
 
-- 🎓 Estudiando **Tecnólogia en Desarrollo de SOftware** en **Universidad del valle**
+- 🎓 Estudiando **Tecnólogia en Desarrollo de Software** en **Universidad del valle**
 - 📅 Año académico: **2025**
 - 🌱 Actualmente aprendiendo **desarrollo de aplicaciones utilizando Spring Boot, integrando bases de datos y buenas prácticas**
 - 👯 Buscando colaborar en **proyectos de código abierto**
 - 📫 Contacto: **santiago.alvarez.gutierrez@correounivalle.edu.co**, **santiagoalvarez2005@hotmail.com**
 - ⚡ Fun fact: **Al principio el “error” me frustraba, ahora me ayuda a mejorar**
 
-## 🛠️ Learning Stack
+## 🛠️ Tecnologías y Herramientas
 
-### 📖 Currently Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Exploring
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & IDEs
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧰 Herramientas y Otros
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiago-AGZ&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-AGZ&layout=compact&theme=github_dark"/>
 </div>
+
 
 ## 📖 Academic Journey
 
